@@ -8,20 +8,18 @@ Welcome to my GitHub! I'm a Senior AI/ML Engineer with a deep passion for turnin
 
 ## 🔍 What I'm Working On
 
-At **Axion Solutions**, and **Kainovation Technologies** I cotribute to advanced AI systems with multi-agentic architechtures and versartile AI solutions. 
-
-At **Life Intelligence Group**, I lead the architecture and development of advanced AI solutions — from intelligent chat systems to multi-modal generative engines. 
+At **Axion Solutions** and **Kainovation Technologies**, I contribute to advanced AI systems with multi-agentic architectures and versatile AI solutions. 
 
 I specialize in full-stack AI engineering, combining LLMs, generative models, and custom-built pipelines into production-grade systems.
 
 ### Current Roles  
 - **Senior Data Scientist** – Kainovation Technologies & Axion Solutions (🇱🇰)
-- **Senior AI/ML Engineer** – Life Intelligence Group (🇦🇺)  
 
 ---
 
 ## 🧠 Featured Projects
 
+- 🤖 **Ari - Multi-Agent AI Engine** – Advanced personal assistant system built for Life Intelligence Group, fully integrated with TaskSpur. Features intelligent goal and task management, schedule optimization, and natural language command processing using OpenAI ChatGPT.
 - 💬 **AI Chat Engine** – Conversational system with LLM-driven dynamic knowledge grounding.
 - 🎨 **Image Generation Suite** – Realistic and stylized generative image engine with context-aware prompts.
 - 🔎 **Natural Language Search** – Semantic search across platforms and data sources.
@@ -44,13 +42,21 @@ I specialize in full-stack AI engineering, combining LLMs, generative models, an
 
 ## 💼 Previously...
 
-**🔬 Research Engineer** – *Tracified*  
+**🤖 Senior AI/ML Engineer** – *Life Intelligence Group (🇦🇺)*  
+Architected and developed **Ari**, a sophisticated multi-agent AI engine integrated with the TaskSpur productivity platform. Built comprehensive task and goal management capabilities including:
+- Natural language task/goal creation and editing
+- Intelligent workflow management (todo → doing → done transitions)
+- Dynamic schedule analysis and optimization  
+- Smart rescheduling and deadline management based on user requests
+- Seamless OpenAI ChatGPT integration for enhanced user interactions
+
+**🔬 Research Engineer** – *Tracified (🇱🇰)*  
 Blockchain-driven sustainability tracking, Ethereum-based analytics, and real-time cold chain optimization.
 
-**👨‍🏫 Graduate Academic Instructor** – *University of Colombo*  
+**👨‍🏫 Graduate Academic Instructor** – *University of Colombo (🇱🇰)*  
 Led lab sessions in Python, R, and SAS; contributed to curriculum design for ML and data science education.
 
-**🔧 R&D Trainee** – *Informatics International*  
+**🔧 R&D Trainee** – *Informatics International (🇱🇰)*  
 Early-stage ML applications for commercial environments and product research.
 
 ---
@@ -61,11 +67,11 @@ Early-stage ML applications for commercial environments and product research.
 
 **Frameworks**: PyTorch, TensorFlow, scikit-learn, spaCy, HuggingFace
 
-**Tools**: Docker, GitHub Actions, MongoDB, Redis, Postgres  
+**Tools**: Docker, GitHub Actions, MongoDB, Postgres  
 
-**DevOps**: GCP, Firebase, CI/CD, REST APIs  
+**DevOps**: GCP, Github Actions, CI/CD, REST APIs, Azure DevOps  
 
-**Specializations**: LLMs, Generative AI, AI Systems Engineering, Search Intelligence, Blockchain+AI
+**Specializations**: LLMs, Generative AI, AI Systems Engineering, Multi-Agent Systems, Search Intelligence, Blockchain+AI, Model Context Protocol, A2A Protocol
 
 **AI Frameworks**: [OpenAI Platform](https://platform.openai.com/docs/overview), [Google Gemini](https://aistudio.google.com/prompts/new_chat), [Claude AI](https://claude.ai/login?returnTo=%2F%3F), [Meta Llama](https://www.llama.com/) 
 
